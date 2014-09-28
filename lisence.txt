@@ -1,0 +1,1 @@
+git is under GPL lisence
